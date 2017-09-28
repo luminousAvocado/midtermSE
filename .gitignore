@@ -1,0 +1,14 @@
+#ignores everything
+*
+
+
+#files to track
+
+!.gitignore
+
+!src
+!src/
+!src/**
+
+!*.txt
+!*.md
